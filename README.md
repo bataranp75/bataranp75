@@ -2,7 +2,7 @@
 - 👀 I’m interested in ReactJS
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on FrontEnd things
-- 📫 How to reach me chat
+- 📫 i'm an amateur pls teach me more
 
 <!---
 bataranp75/bataranp75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
